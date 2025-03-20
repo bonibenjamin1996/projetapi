@@ -1,0 +1,3 @@
+
+MONGO_URI=mongodb+srv://bonibenjamin:boni1996@cluster.mongodb.net/your-db-name
+JWT_SECRET=tonsecretjwt
